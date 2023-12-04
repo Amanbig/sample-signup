@@ -1,1 +1,0 @@
-# This is repository for signup app using postgres , express and nodejs
