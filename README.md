@@ -14,4 +14,4 @@ For starting the server we need just to run the following code:-
 npm run start
 ```
 
-## Important note that in index.js there is client content in which you can change according to your use but I am using user as 'postgres' , password as '1234' and database as 'signup'
+# Important note that in index.js there is client content in which you can change according to your use but I am using user as 'postgres' , password as '1234' and database as 'signup'
